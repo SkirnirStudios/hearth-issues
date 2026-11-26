@@ -1,9 +1,9 @@
 # Hearth: playtest reports
 
 This repository is only for reporting bugs and sharing feedback on **Hearth**, the browser game from Skirnir Studios,
-during its playtest (**Alpha 0.1**). The game's code is not here.
+during its playtest (**Alpha 0.3**). The game's code is not here.
 
-- **Play the alpha:** <https://skirnirstudios.com/hearth/play/>
+- **Play the alpha:** <https://hearth.skirnirstudios.com/>
 - **About the game:** <https://skirnirstudios.com/hearth/>
 
 ## Reporting a bug
